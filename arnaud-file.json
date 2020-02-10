@@ -3,5 +3,6 @@
   "race": "Labrador Retriever",
   "couleur": "Yellow",
   "âge": 6,
-  "name": 'arnaud'
+  "name": 'arnaud',
+  "firstname" : "bregere"
 }
